@@ -1,0 +1,19 @@
+{
+  "ollama": {
+    "base_url": "http://localhost:11434/api",
+    "model": "deepseek-coder-v2"
+  },
+  "speech": {
+    "enabled": true
+  },
+  "server": {
+    "host": "localhost",
+    "port": 8087
+  },
+  "overlay": {
+    "width": 600,
+    "height": 400,
+    "transparency": 0.9,
+    "position": "top-right"
+  }
+}
